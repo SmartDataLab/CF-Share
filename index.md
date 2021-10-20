@@ -85,6 +85,22 @@ Stochastic Varational Inference
 
 ---
 
+# Reference
+
+https://zhuanlan.zhihu.com/p/63276887
+
+https://pyro.ai/examples/svi_part_i.html
+
+https://zhuanlan.zhihu.com/p/150190166
+
+http://sofasofa.io/forum_main_post.php?postid=1005437
+
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+
+https://www.zhihu.com/question/264189719
+
+---
+
 <!-- _class: lead -->
 
 
